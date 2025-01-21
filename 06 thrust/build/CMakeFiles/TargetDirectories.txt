@@ -1,0 +1,3 @@
+/home/tosxic/workspace/cuda/06 thrust/build/CMakeFiles/main.dir
+/home/tosxic/workspace/cuda/06 thrust/build/CMakeFiles/edit_cache.dir
+/home/tosxic/workspace/cuda/06 thrust/build/CMakeFiles/rebuild_cache.dir

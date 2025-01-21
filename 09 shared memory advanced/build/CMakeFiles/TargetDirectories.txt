@@ -1,0 +1,6 @@
+/home/tosxic/workspace/cuda/09 shared memory advanced/build/CMakeFiles/main.dir
+/home/tosxic/workspace/cuda/09 shared memory advanced/build/CMakeFiles/transpose_opt1.dir
+/home/tosxic/workspace/cuda/09 shared memory advanced/build/CMakeFiles/transpose_opt2.dir
+/home/tosxic/workspace/cuda/09 shared memory advanced/build/CMakeFiles/transpose_opt3.dir
+/home/tosxic/workspace/cuda/09 shared memory advanced/build/CMakeFiles/edit_cache.dir
+/home/tosxic/workspace/cuda/09 shared memory advanced/build/CMakeFiles/rebuild_cache.dir

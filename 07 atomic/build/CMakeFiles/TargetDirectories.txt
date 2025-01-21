@@ -1,0 +1,4 @@
+/home/tosxic/workspace/cuda/07 atomic/build/CMakeFiles/main.dir
+/home/tosxic/workspace/cuda/07 atomic/build/CMakeFiles/test.dir
+/home/tosxic/workspace/cuda/07 atomic/build/CMakeFiles/edit_cache.dir
+/home/tosxic/workspace/cuda/07 atomic/build/CMakeFiles/rebuild_cache.dir

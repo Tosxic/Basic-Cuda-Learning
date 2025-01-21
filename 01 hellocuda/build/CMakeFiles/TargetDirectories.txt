@@ -1,0 +1,3 @@
+/home/tosxic/workspace/cuda/hellocuda/build/CMakeFiles/main.dir
+/home/tosxic/workspace/cuda/hellocuda/build/CMakeFiles/edit_cache.dir
+/home/tosxic/workspace/cuda/hellocuda/build/CMakeFiles/rebuild_cache.dir

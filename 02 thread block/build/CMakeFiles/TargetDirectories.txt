@@ -1,0 +1,3 @@
+/home/tosxic/workspace/cuda/02 thread block/build/CMakeFiles/main.dir
+/home/tosxic/workspace/cuda/02 thread block/build/CMakeFiles/edit_cache.dir
+/home/tosxic/workspace/cuda/02 thread block/build/CMakeFiles/rebuild_cache.dir

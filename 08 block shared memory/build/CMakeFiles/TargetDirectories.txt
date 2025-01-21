@@ -1,0 +1,7 @@
+/home/tosxic/workspace/cuda/08 block shared memory/build/CMakeFiles/sum_opt1.dir
+/home/tosxic/workspace/cuda/08 block shared memory/build/CMakeFiles/sum_opt2.dir
+/home/tosxic/workspace/cuda/08 block shared memory/build/CMakeFiles/sum_opt3.dir
+/home/tosxic/workspace/cuda/08 block shared memory/build/CMakeFiles/sum_opt4.dir
+/home/tosxic/workspace/cuda/08 block shared memory/build/CMakeFiles/sum_opt5.dir
+/home/tosxic/workspace/cuda/08 block shared memory/build/CMakeFiles/edit_cache.dir
+/home/tosxic/workspace/cuda/08 block shared memory/build/CMakeFiles/rebuild_cache.dir

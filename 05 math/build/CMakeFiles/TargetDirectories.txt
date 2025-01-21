@@ -1,0 +1,4 @@
+/home/tosxic/workspace/cuda/05 math/build/CMakeFiles/main.dir
+/home/tosxic/workspace/cuda/05 math/build/CMakeFiles/saxpy.dir
+/home/tosxic/workspace/cuda/05 math/build/CMakeFiles/edit_cache.dir
+/home/tosxic/workspace/cuda/05 math/build/CMakeFiles/rebuild_cache.dir
